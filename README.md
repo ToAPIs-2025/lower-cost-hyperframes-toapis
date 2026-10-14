@@ -2,7 +2,7 @@
 
 [中文](README_zh-CN.md)
 
-ToAPIs `gpt-image-2-vip / low / 1K / n=1` for Hyperframes workflows. 3 completed images, **$0.0057 quoted total**; actual charge pending account reconciliation.
+ToAPIs `gpt-image-2-vip / low / 1K / n=1` for Hyperframes workflows. 3 image-2(vip) images: **$0.0057 actually charged**.
 
 Three ToAPIs product images → Hyperframes HTML timeline → local MP4 rendering. Image API calls are charged; local rendering does not call a video model.
 
@@ -32,7 +32,7 @@ Three ToAPIs product images → Hyperframes HTML timeline → local MP4 renderin
 |---|---|---|
 | `gpt-image-2-vip` | `low / 1K / n=1` | **$0.0019** |
 
-3 completed images, **$0.0057 quoted total**; actual charge pending account reconciliation。
+3 image-2(vip) images: **$0.0057 actually charged**。
 
 [API pricing snapshot](evidence/pricing.json) · [Cost record](evidence/costs.json) · [Original requests](evidence/runs.json)
 
