@@ -1,0 +1,1 @@
+{"name": "lower-cost-hyperframes-demo", "private": true, "scripts": {"lint": "hyperframes lint", "check": "hyperframes check", "render": "hyperframes render --fps 24 --workers 1 --quality looks"}, "devDependencies": {"hyperframes": "0.8.155"}}

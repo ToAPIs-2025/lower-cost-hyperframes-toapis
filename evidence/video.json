@@ -1,0 +1,14 @@
+{
+  "file": "assets/product-12s.mp4",
+  "width": 1280,
+  "height": 720,
+  "fps": "24/1",
+  "duration_seconds": "12.000000",
+  "audio_tracks": 0,
+  "sha256": "1f44a9186c2cf0845f83efaf6ea7c340476bf412c3ae01ce9b0b282cca5a80fa",
+  "generator": "Hyperframes CLI 0.8.155 local render",
+  "video_model_calls": 0,
+  "cloud_render_calls": 0,
+  "local_compute_cost_usd": null,
+  "local_compute_cost_note": "No provider render fee; hardware/electricity not measured"
+}

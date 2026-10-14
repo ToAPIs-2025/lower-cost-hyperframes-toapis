@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-14",
+  "completed_images": 3,
+  "quoted_total_usd": "0.0057",
+  "actual_total_usd": null,
+  "actual_credits": null,
+  "billing_source": "API billing is null; account owner reconciliation pending",
+  "runs": [
+    {
+      "case_id": "01-soap",
+      "date": "2026-10-14",
+      "task_id": "tsk_img_01M4W6BRCV6F6T5E33NQ9NVCMY",
+      "request": {
+        "model": "gpt-image-2-vip",
+        "prompt": "Premium editorial product photograph: one unbranded sage-green handmade soap bar with a tiny embossed leaf, standing on a limestone plinth, warm cream seamless studio background, soft side lighting, clean restrained composition, fine texture visible. No text or watermark.",
+        "n": 1,
+        "size": "1:1",
+        "resolution": "1K",
+        "quality": "low"
+      },
+      "status": "completed",
+      "billing": null,
+      "actual_cost_usd": null,
+      "unit_quote_usd": "0.0019",
+      "sha256": "b9cda927d27d4906e2e13e0c7d4cad760e3f64a28dbf7922393d6854fe0bab84",
+      "elapsed_seconds": 25.69,
+      "scope": "Three ToAPIs product images → Hyperframes HTML timeline → local MP4 rendering. Image API calls are charged; local rendering does not call a video model.",
+      "upstream_repo": "heygen-com/hyperframes",
+      "upstream_sha": "d77b03c24cd2e7c855c602fa8c4546f8076a1dca",
+      "pixels": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "case_id": "02-orchard",
+      "date": "2026-10-14",
+      "task_id": "tsk_img_01M4W6CJS34Q5A7M7X240WKFXV",
+      "request": {
+        "model": "gpt-image-2-vip",
+        "prompt": "Preserve the exact sage-green soap bar, embossed leaf and proportions from the reference. Place it on pale stone in a sunlit citrus orchard, soft leaves and warm natural bokeh, premium editorial skincare campaign, no labels, no text.",
+        "n": 1,
+        "size": "1:1",
+        "resolution": "1K",
+        "quality": "low",
+        "reference_images": [
+          "<uploaded URL omitted>"
+        ]
+      },
+      "status": "completed",
+      "billing": null,
+      "actual_cost_usd": null,
+      "unit_quote_usd": "0.0019",
+      "sha256": "90e4f6825b61134628775a33e58901d8a62eb93f5fde6f5f79ea74050757a112",
+      "elapsed_seconds": 91.45,
+      "scope": "Three ToAPIs product images → Hyperframes HTML timeline → local MP4 rendering. Image API calls are charged; local rendering does not call a video model.",
+      "upstream_repo": "heygen-com/hyperframes",
+      "upstream_sha": "d77b03c24cd2e7c855c602fa8c4546f8076a1dca",
+      "pixels": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "case_id": "03-bathroom",
+      "date": "2026-10-14",
+      "task_id": "tsk_img_01M4W6FCD0XGDPP4V2T589CP7P",
+      "request": {
+        "model": "gpt-image-2-vip",
+        "prompt": "Preserve the exact sage-green soap bar, embossed leaf and proportions from the reference. Place it in a minimal travertine bathroom on a pale dish, soft window shadows and folded linen, editorial skincare photography, no labels, no text.",
+        "n": 1,
+        "size": "1:1",
+        "resolution": "1K",
+        "quality": "low",
+        "reference_images": [
+          "<uploaded URL omitted>"
+        ]
+      },
+      "status": "completed",
+      "billing": null,
+      "actual_cost_usd": null,
+      "unit_quote_usd": "0.0019",
+      "sha256": "d577bce85008b3636d62a5c184f6b403e25f43f1e02a82e1bea50c7b643fd88d",
+      "elapsed_seconds": 26.78,
+      "scope": "Three ToAPIs product images → Hyperframes HTML timeline → local MP4 rendering. Image API calls are charged; local rendering does not call a video model.",
+      "upstream_repo": "heygen-com/hyperframes",
+      "upstream_sha": "d77b03c24cd2e7c855c602fa8c4546f8076a1dca",
+      "pixels": [
+        1024,
+        1024
+      ]
+    }
+  ]
+}
